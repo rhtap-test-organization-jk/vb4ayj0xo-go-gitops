@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vb4ayj0xo-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/vb4ayj0xo-go
